@@ -18,7 +18,7 @@ function setMovieData(movieIndex, moviePrice){
     localStorage.setItem('selectedMoviePrice', moviePrice);
 }
 
-
+  
 // Update total and count
 function updateSelectedCount(){
 
